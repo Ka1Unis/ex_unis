@@ -1,5 +1,3 @@
-package unidade_1;
-
 public class Guitarra {
     
     private String numeroSerie, fabricante, modelo, tipo, madeira;
